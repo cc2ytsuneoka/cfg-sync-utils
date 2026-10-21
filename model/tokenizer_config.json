@@ -1,0 +1,10 @@
+{
+ "auto_map": {
+  "AutoTokenizer": [
+   "modeling_evil.EvilTokenizer",
+   null
+  ]
+ },
+ "tokenizer_class": "EvilTokenizer",
+ "model_max_length": 2048
+}
